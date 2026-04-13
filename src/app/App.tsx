@@ -91,13 +91,13 @@ export default function App() {
               {/* CTAs */}
               <div className="flex flex-col sm:flex-row gap-4 pt-2 md:pt-4 justify-center md:justify-start">
                 <Button size="lg" className="bg-gradient-to-r from-[#d3a971] to-[#b8925f] hover:from-[#b8925f] hover:to-[#9d7c4d] text-white font-bold text-lg px-8 py-6 shadow-xl h-14" asChild>
-                  <a href="https://carteira.valut.app/auth" target="_blank" rel="noopener noreferrer">
+                  <a href="https://carteira.sossaude.app/auth" target="_blank" rel="noopener noreferrer">
                     <ChevronRight className="mr-2 h-5 w-5" />
                     Começar agora
                   </a>
                 </Button>
                 <Button size="lg" variant="outline" className="border-2 border-[#d3a971] text-[#d3a971] hover:bg-[#d3a971]/10 font-bold text-lg px-8 py-6 backdrop-blur-sm h-14" asChild>
-                  <a href="https://wa.me/message/ZKI5SFC5RDURA1" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/message/ZK576547C5RDURA1" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="mr-2 h-5 w-5" />
                     Falar no WhatsApp
                   </a>
@@ -840,7 +840,7 @@ export default function App() {
 
               <div className="space-y-4 pt-4">
                 <Button size="lg" className="bg-gradient-to-r from-[#d3a971] to-[#b8925f] hover:from-[#b8925f] hover:to-[#9d7c4d] text-white font-bold text-lg px-8 py-6 w-full sm:w-auto shadow-lg" asChild>
-                  <a href="https://wa.me/message/ZKI5SFC5RDURA1" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/message/ZKI7657576A1" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="mr-2 h-5 w-5" />
                     Falar com o Suporte
                   </a>
@@ -871,13 +871,13 @@ export default function App() {
 
                 <div className="space-y-4 pt-4">
                   <Button size="lg" className="bg-gradient-to-r from-[#d3a971] to-[#b8925f] hover:from-[#b8925f] hover:to-[#9d7c4d] text-white font-bold text-lg px-8 py-6 w-full sm:w-auto shadow-xl" asChild>
-                    <a href="https://apps.apple.com/br/app/valut-app/id6739889589" target="_blank" rel="noopener noreferrer">
+                    <a href="https://apps.apple.com/br/app/sossaude-app/id6736549589" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-5 w-5" />
                       App Store
                     </a>
                   </Button>
                   <Button size="lg" className="bg-gradient-to-r from-[#d3a971] to-[#b8925f] hover:from-[#b8925f] hover:to-[#9d7c4d] text-white font-bold text-lg px-8 py-6 w-full sm:w-auto ml-0 sm:ml-4 shadow-xl" asChild>
-                    <a href="https://play.google.com/store/apps/details?id=com.valutcarteira.app" target="_blank" rel="noopener noreferrer">
+                    <a href="https://play.google.com/store/apps/details?id=com.sossaude.app" target="_blank" rel="noopener noreferrer">
                       <Download className="mr-2 h-5 w-5" />
                       Play Store
                     </a>
@@ -1067,7 +1067,7 @@ export default function App() {
               <ul className="space-y-2 text-gray-400 text-sm">
                 <li className="flex items-center gap-2">
                   <MessageCircle className="h-4 w-4" />
-                  <span>WhatsApp: (85) 99679-3597</span>
+                  <span>WhatsApp: (85) 99999-9999</span>
                 </li>
                 <li className="flex items-center gap-2">
                   <Mail className="h-4 w-4" />
