@@ -23,14 +23,13 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "./
 import { Button } from "./components/ui/button";
 import { Card, CardContent } from "./components/ui/card";
 import { SEO } from "./components/SEO";
-import coaphLogo from "figma:asset/53a9543ecb764d4606405422dc581849886e5f4e.png";
-import valutLogo from "figma:asset/7b3569f07855fcb89f88e516069ff8515778bb19.png";
-import sosLogo from "../imports/+_(2).png";
-import nurse1 from "figma:asset/d37d12ebe684ed5d61dbb73a66cd03ddd2775d2b.png";
-import nurse3 from "figma:asset/86af0c9f2db5f714a68c2f014c80b6eed995ebb9.png";
-import ambulance from "figma:asset/f78e5f1792f42cf3fe667707ee69d1b6b82d74f9.png";
-import appScreenshot from "figma:asset/796163e3280b35c5cff2b71290c88308d0612027.png";
-import appScreenshot2 from "figma:asset/acd06738ea5e9c5e574b3bbe5962556caf8a9716.png";
+import coaphLogo from "../assets/coaph-logo.png";
+import sosLogo from "../assets/sossaude-logo.png";
+import nurse1 from "../assets/nurse-1.png";
+import nurse3 from "../assets/nurse-3.png";
+import ambulance from "../assets/ambulance.png";
+import appScreenshot from "../assets/app-screenshot.png"
+import appScreenshot2 from "../assets/app-screenshot2.png"
 
 export default function App() {
   return (
